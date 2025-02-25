@@ -7,7 +7,7 @@ contract DataVault_0 {
     string public message;
 
     constructor() {
-        randomNumber = 3;
+        randomNumber = 68;
         message = "Hello from commit 0 - 2025-02-25 11:19:26";
     }
 
